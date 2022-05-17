@@ -1,2 +1,2 @@
 # IQ-Test
-<img src="https://www.linkpicture.com/q/cover_6.png" align="center" />
+<img style="margin: 10px" src="https://i.postimg.cc/y6rjT7rL/cover.png" height="500" />  
